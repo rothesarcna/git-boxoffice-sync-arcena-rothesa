@@ -13,7 +13,9 @@ function calculateTicketPrice(quantity, basePrice, isVip) {
     total = total * 1.50;
   }
 
+  total = total - 10;
+
   return Math.round(total);
 }
 
-module.exports = { isValidQuantity, calculateTicketPrice };
+module.exports = { isValidQuantity, calculateTicketPrice }; 
