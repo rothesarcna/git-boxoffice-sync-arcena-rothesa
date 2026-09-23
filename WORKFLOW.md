@@ -70,41 +70,41 @@ One process change that could prevent these rejected pushes is to require every 
 
 Task 1
 
-!\[Task 1 Screenshot](screenshots/task-1.png)
+![Task 1 Screenshot](screenshots/task-1.png)
 
 
 
 Task 2
 
-!\[Task 2 Screenshot](screenshots/task-2.png)
+![Task 2 Screenshot](screenshots/task-2.png)
 
 
 
 Task 3
 
-!\[Task 3 Screenshot](screenshots/task-3.png)
+![Task 3 Screenshot](screenshots/task-3.png)
 
 
 
 Task 4
 
-!\[Task 4 Screenshot](screenshots/task-4.png)
+![Task 4 Screenshot](screenshots/task-4.png)
 
 
 
 Task 5
 
-!\[Task 5 Screenshot](screenshots/task-5.png)
+![Task 5 Screenshot](screenshots/task-5.png)
 
 
 
 Task 6
 
-!\[Task 6 Screenshot](screenshots/task-6.png)
+![Task 6 Screenshot](screenshots/task-6.png)
 
 
 
 Task 7
 
-!\[Task 7 Screenshot](screenshots/task-7.png)
+![Task 7 Screenshot](screenshots/task-7.png)
 
